@@ -1,0 +1,5 @@
+{
+  "name": "M&A Deal Calculator",
+  "description": "A dynamic financial modeling tool to calculate expected value and ROI for M&A deals based on probabilities and price scenarios.",
+  "requestFramePermissions": []
+}
